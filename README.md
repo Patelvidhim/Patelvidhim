@@ -46,12 +46,14 @@ I continuously aim to improve my skills and contribute to exciting, challenging 
 
 Here are a few highlights of my work:
 
-- Agenzee | Asp.Net Core, Restful Web API, C#, SQL, Angular, HTML, CSS, Azure	 
+- Agenzee | Asp.Net Core, Restful Web API, C#, SQL, Angular, HTML, CSS, Azure
+   
 •Designed complex systems interactions, documented data flows, established common interfaces, APIs, and integration methods.
 •Experienced working on .NET Security features such as Authentication & Authorization, Forms-based Authentication, Authorizing Users, Roles and User Account Impersonation.
 •Designed and developed various abstract classes, interfaces, classes to construct business logic using C#.NET.
 
-- Mediation Management System | Asp.Net, C#, SQL, LINQ, HTML, CSS, React, Azure	
+- Mediation Management System | Asp.Net, C#, SQL, LINQ, HTML, CSS, React, Azure
+  
 •Extensively using jQuery to make client-side validations and used AJAX calls wherever necessary for auto filing fields and performing asynchronous calls.  
 •Built user-defined functions, stored procedures, packages, and database triggers while working with PL/SQL. Performed T-SQL DDL/DML/DCL commands using SQL Server 2019 Management Studio.
 •Utilized Cascading Style Sheet for .Net web pages and using DAL made various data controls Data Grid, Repeaters and Data List throughout the application to display data in a customized format in the web pages.
